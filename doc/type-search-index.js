@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"MODELO","l":"Gasolinera"},{"p":"CONTROLADOR","l":"GasolineraController"},{"p":"MODELO","l":"GasolineraDAO"},{"p":"VISTA","l":"GasolineraView"},{"p":"APP","l":"Main"}];updateSearchResults();
